@@ -8,10 +8,6 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/GustavoCunhaLacerda/GustavoLacerdaPage">
 
-  <!-- <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
-  </a> -->
-  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GustavoCunhaLacerda/GustavoLacerdaPage">
   
   <a href="https://github.com/GustavoCunhaLacerda/GustavoLacerdaPage/commits/master">
@@ -71,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 &nbsp;by Gustavo Lacerda 👋 &nbsp;
