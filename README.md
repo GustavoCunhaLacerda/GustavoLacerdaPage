@@ -1,5 +1,4 @@
 <h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
   Gustao Lacerda Portifolio Page
 </h1>
 
