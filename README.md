@@ -6,23 +6,23 @@
 <p align="center">Let's code</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/GustavoCunhaLacerda/GustavoLacerdaPage">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/">
+  <!-- <a href="https://www.linkedin.com/in/eliasgcf/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+  </a> -->
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GustavoCunhaLacerda/GustavoLacerdaPage">
+  
+  <a href="https://github.com/GustavoCunhaLacerda/GustavoLacerdaPage/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GustavoCunhaLacerda/GustavoLacerdaPage">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
-  
-  <a href="https://github.com/EliasGcf/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
+  <a href="https://github.com/GustavoCunhaLacerda/GustavoLacerdaPage/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/GustavoCunhaLacerda/GustavoLacerdaPage">
   </a>
   
-  <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
-  </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
+  <img alt="GitHub" src="https://img.shields.io/github/license/GustavoCunhaLacerda/GustavoLacerdaPage">
 </p>
 
 <p align="center">
